@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XzXP72wdIjkebu9wuqnzMNcsftDg45HO6opfSmXpOxEkzp9nph1GN/kYngwFvMv74MM05ZFRlct/HLXm4lhy2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wilmar.martinez\\source\\repos\\HumanoSeguros\\HumanoSeguros.Application\\HumanoSeguros.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wilmar.martinez\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\wilmar.martinez\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Infraestructure\bin\Debug\net7.0\HumanoSeguros.Infraestructure.deps.json
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Infraestructure\bin\Debug\net7.0\HumanoSeguros.Infraestructure.runtimeconfig.json
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Infraestructure\bin\Debug\net7.0\HumanoSeguros.Infraestructure.dll
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Infraestructure\bin\Debug\net7.0\HumanoSeguros.Infraestructure.pdb
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Infraestructure\bin\Debug\net7.0\HumanoSeguros.Domain.dll
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Infraestructure\bin\Debug\net7.0\HumanoSeguros.Domain.pdb
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Infraestructure\obj\Debug\net7.0\HumanoSeguros.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Infraestructure\obj\Debug\net7.0\HumanoSeguros.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Infraestructure\obj\Debug\net7.0\HumanoSeguros.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Infraestructure\obj\Debug\net7.0\HumanoSeguros.Infraestructure.AssemblyInfo.cs
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Infraestructure\obj\Debug\net7.0\HumanoSeguros.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Infraestructure\obj\Debug\net7.0\HumanoSeguros.Infraestructure.csproj.CopyComplete
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Infraestructure\obj\Debug\net7.0\HumanoSeguros.Infraestructure.dll
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Infraestructure\obj\Debug\net7.0\refint\HumanoSeguros.Infraestructure.dll
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Infraestructure\obj\Debug\net7.0\HumanoSeguros.Infraestructure.pdb
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Infraestructure\obj\Debug\net7.0\HumanoSeguros.Infraestructure.genruntimeconfig.cache
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Infraestructure\obj\Debug\net7.0\ref\HumanoSeguros.Infraestructure.dll

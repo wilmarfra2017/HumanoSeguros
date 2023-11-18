@@ -1,0 +1,11 @@
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Domain\bin\Debug\net7.0\HumanoSeguros.Domain.deps.json
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Domain\bin\Debug\net7.0\HumanoSeguros.Domain.dll
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Domain\bin\Debug\net7.0\HumanoSeguros.Domain.pdb
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Domain\obj\Debug\net7.0\HumanoSeguros.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Domain\obj\Debug\net7.0\HumanoSeguros.Domain.AssemblyInfoInputs.cache
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Domain\obj\Debug\net7.0\HumanoSeguros.Domain.AssemblyInfo.cs
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Domain\obj\Debug\net7.0\HumanoSeguros.Domain.csproj.CoreCompileInputs.cache
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Domain\obj\Debug\net7.0\HumanoSeguros.Domain.dll
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Domain\obj\Debug\net7.0\refint\HumanoSeguros.Domain.dll
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Domain\obj\Debug\net7.0\HumanoSeguros.Domain.pdb
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Domain\obj\Debug\net7.0\ref\HumanoSeguros.Domain.dll

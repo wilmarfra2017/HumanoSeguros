@@ -1,0 +1,15 @@
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Application\bin\Debug\net7.0\HumanoSeguros.Application.deps.json
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Application\bin\Debug\net7.0\HumanoSeguros.Application.dll
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Application\bin\Debug\net7.0\HumanoSeguros.Application.pdb
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Application\bin\Debug\net7.0\HumanoSeguros.Domain.dll
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Application\bin\Debug\net7.0\HumanoSeguros.Domain.pdb
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Application\obj\Debug\net7.0\HumanoSeguros.Application.csproj.AssemblyReference.cache
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Application\obj\Debug\net7.0\HumanoSeguros.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Application\obj\Debug\net7.0\HumanoSeguros.Application.AssemblyInfoInputs.cache
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Application\obj\Debug\net7.0\HumanoSeguros.Application.AssemblyInfo.cs
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Application\obj\Debug\net7.0\HumanoSeguros.Application.csproj.CoreCompileInputs.cache
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Application\obj\Debug\net7.0\HumanoSeguros.Application.csproj.CopyComplete
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Application\obj\Debug\net7.0\HumanoSeguros.Application.dll
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Application\obj\Debug\net7.0\refint\HumanoSeguros.Application.dll
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Application\obj\Debug\net7.0\HumanoSeguros.Application.pdb
+C:\Users\wilmar.martinez\source\repos\HumanoSeguros\HumanoSeguros.Application\obj\Debug\net7.0\ref\HumanoSeguros.Application.dll
